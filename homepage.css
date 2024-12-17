@@ -1,0 +1,9 @@
+.homepage-container {
+    background-color: #e9f7fc;
+    color: #034f84;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
